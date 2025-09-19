@@ -12,6 +12,7 @@ Remove unwanted transactions seamlessly with a delete button.
 
 # Usage
 1.Open the web app in your browser.
+
 2.Enter the transaction details, including the transaction text and amount.
 
 3.Press the "Add Transaction" button to update the list and balances.
